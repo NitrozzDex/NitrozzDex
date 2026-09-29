@@ -1,21 +1,24 @@
-### 👋 Salut, c'est NitrozzDex !
-
-Passionné par le développement, le scripting et les projets RP (notamment FiveM) 🚀
+<div align="center">
+  <h1>👋 Salut, c'est NitrozzDex !</h1>
+  <p><b>Passionné par le développement, le scripting et les projets RP (notamment FiveM) 🚀</b></p>
+</div>
 
 ---
 
-### 📊 Mes Statistiques GitHub
+<div align="center">
+  <a href="https://github-profile-summary-cards.vercel.app">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitrozzDex&theme=github_dark" alt="Profile Summary" />
+  </a>
+</div>
 
-<!-- Graphique d'activité en courbe -->
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=NitrozzDex&theme=react-dark&hide_border=true)
+<br>
 
-<!-- Statistiques globales et cartes de langages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitrozzDex&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitrozzDex&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NitrozzDex&theme=github_dark" alt="GitHub Stats" />
+</div>
 
-<!-- Compteur de vues -->
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=NitrozzDex&color=blue&style=flat-square" alt="Compteur de vues" />
-</p>
+</div>
