@@ -20,7 +20,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NitrozzDex&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NitrozzDex&theme=github_dark&utcOffset=0" alt="Productive Time" />
 </div>
 
 <br>
